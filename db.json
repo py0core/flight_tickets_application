@@ -1,0 +1,44 @@
+{
+    "accounts": [
+        {
+            "test@test.com": {
+                "email": "test@test.com",
+                "first_name": "asdawd",
+                "last_name": "asdawdawd",
+                "password": "adwdada3d"
+            }
+        },
+        {
+            "test2@gmail.com": {
+                "email": "test2@gmail.com",
+                "first_name": "test",
+                "last_name": "test",
+                "password": "sdfgrgfeg45"
+            }
+        },
+        {
+            "dani@gmail.com": {
+                "email": "dani@gmail.com",
+                "first_name": "dani",
+                "last_name": "demi",
+                "password": "12345!"
+            }
+        },
+        {
+            "daniel@gmail.com": {
+                "email": "daniel@gmail.com",
+                "first_name": "dani",
+                "last_name": "demi",
+                "password": "12345!"
+            }
+        },
+        {
+            "zain@zain.com": {
+                "email": "zain@zain.com",
+                "first_name": "asdas",
+                "last_name": "sadasd",
+                "password": "asdadawdwa"
+            }
+        }
+    ]
+}
